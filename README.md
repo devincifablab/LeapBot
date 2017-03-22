@@ -19,8 +19,8 @@ Control of an Robotic-arm via LeapMotion and through a Raspberry Pi.
 ## Just tell me what to do
 
 1. Fork the project via `github`
-1. Clone the project `git clone https://github.com/YOUR_USERNAME/leapbot`
-1. Follow this 'http://qdsfqsdfqsdfqsdfdqs'
+1. Clone the project `git clone https://github.com/devincifablab/LeapBot.git`
+1. Follow this 'https://www.instructables.com/id/LeapBot/'
 
 ## Licence
 
