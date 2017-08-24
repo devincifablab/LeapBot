@@ -25,3 +25,7 @@ Control of an Robotic-arm via LeapMotion and through a Raspberry Pi.
 ## Licence
 
 [Uncopyrighted](http://zenhabits.net/uncopyright/)
+
+## Code Info
+
+Coded in Python and Bash Scripting
