@@ -29,3 +29,7 @@ Control of an Robotic-arm via LeapMotion and through a Raspberry Pi.
 ## Code Info
 
 Coded in Python and Bash Scripting
+
+## Owners
+
+Ken Moussat & Clément Rendu
